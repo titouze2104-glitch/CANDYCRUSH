@@ -1,3 +1,3 @@
 setTimeout(() => {
-    window.location.href = "index.html";
+    window.location.href = "scan.html";
 }, 3000);
